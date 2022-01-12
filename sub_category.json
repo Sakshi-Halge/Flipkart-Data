@@ -1,0 +1,177 @@
+[
+  {
+    "sub_cat_id": 1,
+    "category": "Sofa",
+    "main_category": "Living Room Furniture",
+    "main_category_id": 1
+  },
+  {
+    "sub_cat_id": 2,
+    "category": "Tv Units",
+    "main_category": "Living Room Furniture",
+    "main_category_id": 1
+  },
+  {
+    "sub_cat_id": 3,
+    "category": "Dining Tables & Chairs",
+    "main_category": "Living Room Furniture",
+    "main_category_id": 1
+  },
+  {
+    "sub_cat_id": 4,
+    "category": "Shoe Racks",
+    "main_category": "Living Room Furniture",
+    "main_category_id": 1
+  },
+  {
+    "sub_cat_id": 5,
+    "category": "Beds",
+    "main_category": "Bed Room Furniture",
+    "main_category_id": 2
+  },
+  {
+    "sub_cat_id": 6,
+    "category": "Mattresses",
+    "main_category": "Bed Room Furniture",
+    "main_category_id": 2
+  },
+  {
+    "sub_cat_id": 7,
+    "category": "Wardrobe",
+    "main_category": "Bed Room Furniture",
+    "main_category_id": 2
+  },
+  {
+    "sub_cat_id": 8,
+    "category": "Smart Security System",
+    "main_category": "Smart Home Automation",
+    "main_category_id": 3
+  },
+  {
+    "sub_cat_id": 9,
+    "category": "Smart Door Locks",
+    "main_category": "Smart Home Automation",
+    "main_category_id": 3
+  },
+  {
+    "sub_cat_id": 10,
+    "category": "Coffee Mug",
+    "main_category": "Tableware and Dinnerware",
+    "main_category_id": 4
+  },
+  {
+    "sub_cat_id": 11,
+    "category": "Dinner Set",
+    "main_category": "Tableware and Dinnerware",
+    "main_category_id": 4
+  },
+  {
+    "sub_cat_id": 12,
+    "category": "Paintings",
+    "main_category": "Home Decor",
+    "main_category_id": 5
+  },
+  {
+    "sub_cat_id": 13,
+    "category": "Clocks",
+    "main_category": "Home Decor",
+    "main_category_id": 5
+  },
+  {
+    "sub_cat_id": 14,
+    "category": "Wall Shelves",
+    "main_category": "Home Decor",
+    "main_category_id": 5
+  },
+  {
+    "sub_cat_id": 15,
+    "category": "Stickers",
+    "main_category": "Home Decor",
+    "main_category_id": 5
+  },
+  {
+    "sub_cat_id": 16,
+    "category": "Showpieces & Figurines",
+    "main_category": "Home Decor",
+    "main_category_id": 5
+  },
+  {
+    "sub_cat_id": 17,
+    "category": "Tools & Mesuring Equipments",
+    "main_category": "Home Improvement",
+    "main_category_id": 6
+  },
+  {
+    "sub_cat_id": 18,
+    "category": "Home Utilities and Organizers",
+    "main_category": "Home Improvement",
+    "main_category_id": 6
+  },
+  {
+    "sub_cat_id": 19,
+    "category": "Lawn & Gardening",
+    "main_category": "Home Improvement",
+    "main_category_id": 6
+  },
+  {
+    "sub_cat_id": 20,
+    "category": "Bathroom and Kitchen Fittings",
+    "main_category": "Home Improvement",
+    "main_category_id": 6
+  },
+  {
+    "sub_cat_id": 21,
+    "category": "Wall Lamp",
+    "main_category": "Home Lighting",
+    "main_category_id": 7
+  },
+  {
+    "sub_cat_id": 22,
+    "category": "Table Lamp",
+    "main_category": "Home Lighting",
+    "main_category_id": 7
+  },
+  {
+    "sub_cat_id": 23,
+    "category": "Ceiling Fan",
+    "main_category": "Home Lighting",
+    "main_category_id": 7
+  },
+  {
+    "sub_cat_id": 24,
+    "category": "Emergency Lights",
+    "main_category": "Home Lighting",
+    "main_category_id": 7
+  },
+  {
+    "sub_cat_id": 25,
+    "category": "Bedsheets",
+    "main_category": "Furnishing",
+    "main_category_id": 8
+  },
+  {
+    "sub_cat_id": 26,
+    "category": "Curtains",
+    "main_category": "Furnishing",
+    "main_category_id": 8
+  },
+  {
+    "sub_cat_id": 27,
+    "category": "Bath Towels",
+    "main_category": "Furnishing",
+    "main_category_id": 8
+  },
+  {
+    "sub_cat_id": 28,
+    "category": "Kitchen & Table Linen",
+    "main_category": "Furnishing",
+    "main_category_id": 8
+  },
+
+  {
+    "sub_cat_id": 29,
+    "category": "Floor Coving",
+    "main_category": "Furnishing",
+    "main_category_id": 8
+  }
+]
